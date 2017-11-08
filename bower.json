@@ -1,0 +1,24 @@
+{
+    "name": "adapt-theme-fco",
+    "repository": "git@github.com:theodi/adapt-theme-fco.git",
+    "framework": "^2.0.0",
+    "version": "0.5.0",
+    "homepage": "https://github.com/theodi/adapt-theme-fco/",
+    "issues": "https://github.com/theodi/adapt-theme-fco/issues",
+    "displayName": "FCO",
+    "theme": "FCO",
+    "description": "A custom theme for FCO modules",
+    "main": "js/fco.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-theme"
+    ],
+    "licenfco": "GPLv3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
