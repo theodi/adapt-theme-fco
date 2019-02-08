@@ -44,7 +44,7 @@
             color: @primary-color-inverted;
         }
 	.button {
-		display: none;
+		background-color: @white;
 	}
     }
     &.inverted {
@@ -73,6 +73,9 @@
 // Section banner (ODI ADDED)
 // ===========================================
 .block {
+    &.hidden {
+    	display: none;
+    }
     // Section banner
     &.section-banner-micro {
         .block-inner {
